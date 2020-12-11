@@ -1,20 +1,20 @@
 # μLicense
 
-Tiny and free software license in 299 bytes.
+Tiny and free software license in 115 bytes.
 
 <h6>
-Copyright (c) &lt;year&gt; &lt;owner&gt;<br/>
-Redistribution and use in source and binary forms, with or without modification, are permitted.</br>
-THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN NO EVENT WILL THE AUTHORS BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+© &lt;year&gt; &lt;owner&gt;<br/>
+Offered as-is, without warranty.<br/>
+Use and distribution, with optional modification, are permitted.
 </h6>
 
 # Features
 - Universal donors.
 - Universal recipients.
-- No clauses.
-- No warranty. 
+- No clauses (optionally 1).
+- No warranty.
 - No liability.
-- No attribution required. 
+- No attribution required (optional).
 
 # Rationale
 - Shortest free clause (from BSD license)
@@ -29,5 +29,6 @@ THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN N
 - https://opensource.org/faq#cc-zero
 
 # Changelog
+- 115 bytes: removed redundant language, optional attribution, by @landfillbaby (IANAL)
 - 299 bytes: with BSD clause, thanks @philliptrudeau! :)
 - 325 bytes: initial version.
